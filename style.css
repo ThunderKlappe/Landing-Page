@@ -104,6 +104,47 @@ button{
     color: #1F2937;
     margin-top: 10px;
 }
+.quote-box{
+    background-color: #E5E7EB;
+    padding: 90px 200px;
+}
+.quote-box q{
+    font-size: 36px;
+    color: #1F2937;
+}
+.attribution{
+    font-size: 24px;
+    color: #1F2937;
+    font-weight: bold;
+    text-align: right;
+}
+.sign-up-box{
+    background-color: #3882F6;
+    padding: 50px 100px;
+    margin: 102px 200px 120px 120px;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.buttcon{
+    display: flex;
+    align-items: center;
+}
+.sign-up-box button{
+    border-color: #F9FAF8;
+    border-width: 1px;
+    border-style: solid;
+    flex: 0 0 auto;
+}
+.sign-up-title{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+.sign-up-box .body-text{
+    margin: 4px 0px;
+}
 
 .footer{
     justify-content: center;
